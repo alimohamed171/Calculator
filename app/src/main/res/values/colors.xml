@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="delete">#616161</color>
+    <color name="number">#303136</color>
+    <color name="operator">#005DB2</color>
+    <color name="equal">#1991FF</color>
+    <color name="txt">#29A8FF</color>
+</resources>
